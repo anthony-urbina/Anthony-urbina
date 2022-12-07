@@ -6,9 +6,9 @@
 
 My journey in web devlopment began with an interest in NFT's and the future of tech. After getting a look under the hood at web development, I realized there is a lot of catching up I need to do before I even think about coding a smart contract. Until that time comes, I will continue exloring all that the current state of the internet has to offer, while demonstrating my findings in projects that I find engaging and meaningful.
 
-- 🔭 I’m currently working on [War](warcardgame.xyz)
+- 🔭 I’m currently working on [War](https://warcardgame.xyz)
 - 🌱 I'm currently learning TypeScript
-- 📫 Reach me on [LinkedIn](linkedin.com/in/anthonyisaiahurbina)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/anthonyisaiahurbina)
 - ⚡️ Fun fact: I'm a huge fan of VeeFriends and the Lakers
 
 #### Stack
