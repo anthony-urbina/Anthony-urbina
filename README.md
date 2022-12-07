@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer in Los Angeles, CA.
-
-  I like coding, it's pretty fun
+#### I'm Anthony, a Full-Stack Developer in Los Angeles, CA.
   
 ##### BIO
 
+My journey in web devlopment began with an interest in NFT's and the future of tech. After getting a look under the hood at web development, I realized there is a lot of catching up I need to do before I even think about coding a smart contract. Until that time comes, I will continue exloring all that the current state of the internet has to offer, while demonstrating my findings in projects that I find engaging and meaningful.
+
 - 🔭 I’m currently working on [War](warcardgame.xyz)
 - 🌱 I'm currently learning TypeScript
-- 📫 Reach me: [LinkedIn](linkedin.com/in/anthonyisaiahurbina)
+- 📫 Reach me on [LinkedIn](linkedin.com/in/anthonyisaiahurbina)
 - ⚡️ Fun fact: I'm a huge fan of VeeFriends and the Lakers
 
 #### Stack
@@ -19,6 +19,7 @@
  ![html5](https://user-images.githubusercontent.com/49361894/194736004-a8430d19-7685-440b-bb59-58412591cb39.svg)
  ![css](https://user-images.githubusercontent.com/49361894/194736008-f444cf88-9615-411a-b5c6-a86798b43180.svg)
  ![postgresql](https://user-images.githubusercontent.com/49361894/194736013-02d95228-339d-46a2-8fd0-75cd8d288194.svg)
+ ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
  
 #### Tools 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -32,5 +33,5 @@
 #### Let's Connect!
 <a href="https://www.linkedin.com/in/anthonyisaiahurbina/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-Anthony Urbina-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white" /></a>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnthonyUrbina&show_icons=true&locale=en&hide=stars,contribs&theme=rose_pine" alt="tghaffari" />
+#### Fun Stats
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyUrbina&theme=tokyonight&hide=stars,contribs)](https://github.com/AnthonyUrbina/github-readme-stats)
