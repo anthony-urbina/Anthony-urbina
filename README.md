@@ -2,7 +2,7 @@
 
 #### I'm Anthony, a Full-Stack Developer in Los Angeles, CA.
   
-##### BIO
+#### BIO
 
 My journey in web devlopment began with an interest in NFT's and the future of tech. After getting a look under the hood at web development, I realized there was a lot of catching up I had to do before I even thought about coding an ethereum smart contract. Till then, I will continue exloring all of what the current state of the internet has to offer, while also demonstrating my findings through projects that I find meaningful and engaging.
 
