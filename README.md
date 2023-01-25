@@ -32,6 +32,7 @@ My journey in web development began with an interest in NFT's and the future of 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
 
 #### Let's Connect!
 <a href="https://www.linkedin.com/in/anthonyisaiahurbina/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-Anthony Urbina-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white" /></a>
