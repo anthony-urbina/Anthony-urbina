@@ -20,6 +20,8 @@ My journey in web development began with an interest in NFT's and the future of 
  ![css](https://user-images.githubusercontent.com/49361894/194736008-f444cf88-9615-411a-b5c6-a86798b43180.svg)
  ![postgresql](https://user-images.githubusercontent.com/49361894/194736013-02d95228-339d-46a2-8fd0-75cd8d288194.svg)
  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+ ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+ ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
  
 #### Tools 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
