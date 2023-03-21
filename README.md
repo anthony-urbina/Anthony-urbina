@@ -38,4 +38,4 @@ My journey in web development began with an interest in NFT's and the future of 
 <a href="https://www.linkedin.com/in/anthonyisaiahurbina/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-Anthony Urbina-white?style=for-the-badge&color=0077B5&logo=linkedin&logoColor=0077B5&labelColor=white" /></a>
 
 #### Fun Stats
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyUrbina&theme=tokyonight&hide=stars,contribs)](https://github.com/anthony-urbina/github-readme-stats)
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthony-urbina&theme=tokyonight&hide=stars,contribs)](https://github.com/anthony-urbina/github-readme-stats)
