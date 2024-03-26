@@ -1,15 +1,6 @@
 ### Hi there 👋
 
 #### I'm Anthony, a Full-Stack Developer in Los Angeles, CA.
-  
-#### BIO
-
-My journey in web development began with an interest in NFT's and the future of tech. After getting a look under the hood at web development, I realized there was a lot of catching up I had to do before I even thought about coding an ethereum smart contract. Till then, I will continue exploring all of what the current state of the internet has to offer, while also demonstrating my findings through projects that I find meaningful and engaging.
-
-- 🔭 I’m currently working on [War](https://warcardgame.xyz)
-- 🌱 I'm currently learning TypeScript
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/anthonyisaiahurbina)
-- ⚡️ Fun fact: I'm a huge fan of VeeFriends and the Lakers
 
 #### Stack
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
