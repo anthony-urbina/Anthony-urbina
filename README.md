@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Anthony, a Full-Stack Developer in Los Angeles, CA.
+#### I'm Anthony, a Full-Stack Developer Engineer in Los Angeles, CA.
 
 #### Stack
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
